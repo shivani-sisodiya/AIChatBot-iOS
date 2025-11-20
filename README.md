@@ -31,6 +31,5 @@ Designed for sales teams and customers to interact with AI through text, voice, 
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2025-11-20 at 20 54 34" src="https://github.com/user-attachments/assets/29127840-b6eb-434d-9465-f0a1ab7fedc8" />
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2025-11-20 at 20 56 20" src="https://github.com/user-attachments/assets/f1e07eda-450a-42a4-bb04-8435b964d886" />
 
-
 ## License
 MIT License
